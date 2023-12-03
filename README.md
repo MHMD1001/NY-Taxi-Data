@@ -26,7 +26,7 @@ The data pipeline consists of the following components:
    cd ny-taxi-data-ingestion
 
 ## Build and Run Docker Containers:
-docker-compose up
+```bashdocker-compose up```
 This command will start the PostgreSQL, pgAdmin, and Python script containers
 
 ## Access pgAdmin:
