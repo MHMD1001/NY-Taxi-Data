@@ -30,11 +30,11 @@ The data pipeline consists of the following components:
 This command will start the PostgreSQL, pgAdmin, and Python script containers
 
 ## Access pgAdmin:
--Open a web browser and go to http://localhost:8080
--Log in with the following credentials:
--Email: admin@admin.com
--Password: root
--Set up a new server connection to the PostgreSQL database (ny_taxi)
+- Open a web browser and go to http://localhost:8080
+- Log in with the following credentials:
+- Email: admin@admin.com
+- Password: root
+- Set up a new server connection to the PostgreSQL database (ny_taxi)
 
 ## Additional Note
 Customize the Docker Compose environment variables in the docker-compose.yml file according to your preferences
