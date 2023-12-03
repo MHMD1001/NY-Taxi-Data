@@ -1,4 +1,4 @@
-# NY Taxi Data Ingestion Project
+# NY Taxi Data Ingestion
 
 This project demonstrates an end-to-end data pipeline for ingesting New York City taxi data into a PostgreSQL database. The pipeline is containerized using Docker and includes a Python script for data retrieval and insertion. Additionally, pgAdmin is used for database management
 
